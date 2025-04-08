@@ -1,4 +1,4 @@
-# Data-Structure-Algorithms-LLD-HLD
+# Algorithms
 
 ## Data Structure Resources
 ### Theory with Practice Problems
